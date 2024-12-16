@@ -4,7 +4,7 @@ import socketserver
 PORT = 8000
 class TestMe():
 	def take_five(self):
-		returm 4
+		return 4
 	def port(self):
 		return PORT
 
